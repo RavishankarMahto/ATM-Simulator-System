@@ -8,6 +8,7 @@ public class alcohol {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your age: ");
         int age = sc.nextInt();
+        sc.close();
 
         do{
             System.out.println("Your age are " + age + " You can take alcohol");

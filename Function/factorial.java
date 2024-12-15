@@ -1,7 +1,7 @@
 package Function;
 
 public class factorial {
-    public static int factorial(int n){
+    public static int factorial1(int n){
         int f = 1;
         for(int i=1; i<=n; i++){
             f = f*i;
@@ -9,6 +9,6 @@ public class factorial {
         return f;  // factorial of n
     }
     public static void main(String[] args){
-        System.out.println(factorial(7));
+        System.out.println(factorial1(7));
     }
 }

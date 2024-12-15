@@ -13,5 +13,6 @@ public class product {
         int a = sc.nextInt();
         int b = sc.nextInt();
         productOfNum(a,b);
+        sc.close();
     }
 }

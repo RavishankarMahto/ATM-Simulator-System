@@ -66,7 +66,7 @@ CREATE DATABASE bankmanagementsystem;
 # 5. Update your MySQL credentials in Connn.java
 
 # 6. Run `Login.java` to start the application
-
+```
 
 ## 🧠 Code Structure
 
@@ -127,5 +127,5 @@ Upload your screenshots to a folder named `screenshots/` in your project directo
 ![Mini Statement Screen](screenshots/ministatement.png)
 
 ### 💼 Balance Enquiry Page
-![Balance Enquiry Screen](screenshots/balanceenquiry.png)
+![Balance Enquiry Screen](screenshots/atm.png)
 

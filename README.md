@@ -88,8 +88,6 @@ CREATE DATABASE bankmanagementsystem;
 
 ## 📸 Screenshots
 
-Upload your screenshots to a folder named `screenshots/` in your project directory, and use the following format to display them in the README.
-
 > 📁 Directory structure:
 >
 > ```
@@ -104,28 +102,57 @@ Upload your screenshots to a folder named `screenshots/` in your project directo
 > │   ├── ministatement.png
 > │   ├── balanceenquiry.png
 > ```
+<h2>🖼️ Screenshots</h2>
 
-### 🔑 Login Page
-![Login Screen](screenshots/login.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/login.png" alt="Login" width="350"/><br/>
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/signup.png" alt="Signup" width="350"/><br/>
+      <b>Signup</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/deposit.png" alt="Deposit" width="350"/><br/>
+      <b>Deposit</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/withdrawal.png" alt="Withdrawal" width="350"/><br/>
+      <b>Withdrawal</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/fastcash.png" alt="Fast Cash" width="350"/><br/>
+      <b>Fast Cash</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/changepin.png" alt="Change PIN" width="350"/><br/>
+      <b>Change PIN</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/ministatement.png" alt="Mini Statement" width="350"/><br/>
+      <b>Mini Statement</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/atm.png" alt="Balance Enquiry" width="350"/><br/>
+      <b>Balance Enquiry</b>
+    </td>
+  </tr>
+</table>
 
-### 📝 Signup Page
-![Signup Screen](screenshots/signup.png)
+---
 
-### 💰 Deposit Page
-![Deposit Screen](screenshots/deposit.png)
+## 👨‍💻 Author
 
-### 💸 Withdrawal Page
-![Withdrawal Screen](screenshots/withdrawal.png)
+**Ravishankar Kumar**  
+💼 Java Developer | 💻 Software Enthusiast  
 
-### ⚡ Fast Cash Page
-![Fast Cash Screen](screenshots/fastcash.png)
+📧 Email: [ravishankarmahto887752@gmail.com](mailto:ravishankarmahto887752@gmail.com)  
+🌐 GitHub: [RavishankarMahto](https://github.com/RavishankarMahto)
 
-### 🔐 Change PIN Page
-![Change PIN Screen](screenshots/changepin.png)
+---
 
-### 📋 Mini Statement Page
-![Mini Statement Screen](screenshots/ministatement.png)
-
-### 💼 Balance Enquiry Page
-![Balance Enquiry Screen](screenshots/atm.png)
 
